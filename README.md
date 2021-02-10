@@ -1,24 +1,16 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Web page for a local hardware store 
 
-Things you may want to cover:
+Stack used:
 
-* Ruby version
+* Ruby
 
-* System dependencies
+* Ruby on Rails
 
-* Configuration
+* Javascript
 
-* Database creation
+* HTML and CSS
 
-* Database initialization
+* Database Postgresql
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
